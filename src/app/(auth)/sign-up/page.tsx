@@ -3,7 +3,7 @@ import { SignUpForm } from "./sign-up-form";
 
 const SignUp = () => {
     return (
-        <div className="flex min-h-svh justify-center items-center px-4">
+        <div className="flex min-h-svh justify-center items-center">
             <SignUpForm></SignUpForm>
         </div>
     );
